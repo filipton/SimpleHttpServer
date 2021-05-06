@@ -1,6 +1,6 @@
 # SimpleHttpServer
 
-Foobar is a Python library for dealing with word pluralization.
+SimpleHttpServer is a basic HTTP server that simulates GitHub pages behavior.
 
 ## Installation
 
